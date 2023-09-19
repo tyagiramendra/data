@@ -1,0 +1,382 @@
+What Is X-Efficiency?  
+
+X-efficiency refers to the degree of efficiency maintained by firms under conditions of imperfect competition. Efficiency in this context means a company getting the maximum outputs from its inputs, including employee productivity and manufacturing efficiency. In a highly competitive market, firms are forced to be as efficient as possible to ensure strong profits and continued existence. This is not true in situations of imperfect competition, such as with a monopoly or duopoly.
+
+
+
+
+
+Key Takeaways
+
+X-efficiency is the degree of efficiency maintained by firms under conditions of imperfect competition such as the case of a monopoly.Economist Harvey Leibenstein challenged the belief that firms were always rational and called this anomaly "X" for unknown–or x-efficiency.Leibenstein introduced the human element, arguing that there could be degrees of efficiency, meaning that–at times–firms didn't always maximize profits﻿﻿
+
+
+   Understanding X-Efficiency  
+
+X-efficiency points to irrational actions in the market by firms. Traditional neoclassical economics made the assumption that companies operated in rational ways, meaning they maximized production at the lowest possible costs–even when the markets were not efficient. Harvey Leibenstein, a Harvard professor and economist, challenged the belief that firms were always rational and called this anomaly "X" for unknown–or x-efficiency. In the absence of real competition, companies are more tolerant of inefficiencies in their operations. The concept of x-efficiency is used to estimate how much more efficient a company would be in a more competitive environment.﻿﻿﻿
+
+
+
+Born in the Ukraine, Harvey Leibenstein (1922-1994) was a professor at Harvard University whose primary contribution—other than x-efficiency and its various applications to economic development, property rights, entrepreneurs, and bureaucracy—was the critical minimum effort theory that aimed to find a solution to breaking the poverty cycle in underdeveloped countries.
+
+
+
+When calculating x-efficiency, a data point is usually selected to represent an industry and then it is modeled using regression-analysis. For example, a bank might be judged by total costs divided by total assets to get a single data point for a firm. Then, the data points for all the banks would be compared using regression analysis to identify the most x-efficient and where the majority fall. This analysis can be done for a specific country to find out how x-efficient certain sectors are or across borders for a particular sector to see the regional and jurisdictional variations.
+
+
+   History of X-Efficiency  
+
+Leibenstein proposed the concept of x-efficiency in a 1966 paper titled "Allocative Efficiency vs. 'X-Efficiency,'" which appeared in The American Economic Review. Allocative efficiency is when a company's marginal costs are equal to price and can occur when the competition is very high in that industry. Prior to 1966, economists believed that firms were efficient with the exception of circumstances of allocative efficiency. Leibenstein introduced the human element whereby factors could exist, attributable to management or workers, that don't maximize production or achieve the lowest possible costs in production.
+
+
+
+In the summary section of the paper, Leibenstein asserted that "microeconomic theory focuses on allocative efficiency to the exclusion of other types of efficiencies that are much more significant in many instances. Furthermore, improvement in 'non-allocative efficiency' is an important aspect of the process of growth." Leibenstein concluded that the theory of the firm does not depend on cost-minimization; rather, unit costs are influenced by x-efficiency, which in turn, "depends on the degree of competitive pressure, as well as other motivational factors."
+
+
+
+In the extreme market structure case–monopoly—Leibenstein observed less worker effort. In other words, with no competition, there is less worker and management desire to maximize production and compete. On the other hand, when competitive pressures were high, workers exerted more effort. Leibenstein argued that there is much more to gain for a firm and its profit-making ways by increasing x-efficiency instead of allocative efficiency.
+
+
+
+The theory of x-efficiency was controversial when it was introduced because it conflicted with the assumption of utility-maximizing behavior, a well-accepted axiom in economic theory. Utility is essentially the benefit or satisfaction from a behavior, such as consuming a product.
+
+
+
+
+
+
+X-efficiency helps to explain why companies might have little motivation to maximize profits in a market where the company is already profitable and faces little threat from competitors.
+
+
+
+Before Leibenstein, companies were believed to always maximize profits in a rational manner, unless there was extreme competition. X-efficiency posited that there could be varying levels of degrees of efficiency that companies might operate. Firms with little motivation or no competition could lead to X-inefficiency—meaning they choose not to maximize profits because there's little motivation to achieve maximum utility. However, some economists argue that the concept of x-efficiency is merely the observance of workers' utility-maximizing tradeoff between effort and leisure. Empirical evidence for the theory of x-efficiency is mixed.
+
+
+   X-Efficiency vs. X-Inefficiency  
+
+X-efficiency and x-inefficiency are the same economic concept. X-efficiency measures how close to optimal efficiency a firm is operating in a given market. For example, a firm may be 0.85 x-efficient, meaning it is operating at 85% of its optimal efficiency. This would be considered very high in a market with significant government controls and state-owned enterprises. X-inefficiency is the same measurement, but the focus is on the gap between current efficiency and potential. A state-owned enterprise in the same market as the previous company may have an x-efficiency ratio of 0.35, meaning it is operating at only 35% of its optimal efficiency. In this case, the firm may be referred to as x-inefficient to draw attention to the large gap, even though it is still x-efficiency that is being measured.
+What Is an X-Mark Signature?  
+
+An X-mark signature is made by a person in lieu of an actual signature. Due to illiteracy or disability, a person may be unable to append a full signature in name to a document as an attestation that its content has been reviewed and approved. In order to be legally valid, the X-mark signature must be witnessed.
+
+
+
+
+
+Key Takeaways
+
+An X-mark signature is made by a person who is unable to append a full signature to a document due to illiteracy or disability.Because of the obvious potential for fraud, doubts may arise about the validity and enforceability of documents signed with X-mark signatures.In the event of a legal claim against the document, the relationship of each witness to the person signing the document may be called into question.
+
+
+   Understanding an X-Mark Signature  
+
+X-mark signatures are so named because historically the person signing the document simply makes a cross-hatched mark resembling a letter "X" rather than their full, customary signature. The actual form of the X-mark may not actually be a letter "X" and might take some other form of illegible mark meant to authenticate that the person understands and agrees to the stated terms.
+
+
+
+Due to the obvious potential for fraud, doubts may arise about the validity and enforceability of documents signed with X-mark signatures. In some states, the presiding law can require courts to invalidate wills signed with an X unless the testator was physically or mentally incapable of signing their own full name.
+
+
+
+An individual might use an X-mark signature if they have been injured in an accident and need to approve a legal document but cannot physically form a full signature. For example, the testator may need to grant power of attorney to a responsible party while they are being treated in a hospital.
+
+
+
+It is possible for an X-mark signature to be used to sign checks, commercial contracts, and promissory notes, even if the signee is not impaired physically or mentally.
+
+
+   X-Mark Signature Requirements  
+
+States may require more than one witness for an X-mark signature to be valid. An X-mark signature may need to be notarized, too, for the document to be enforceable.
+
+
+
+An individual using an X-mark signature may also be required to show some proof of their identity at the time the document is signed. This stipulation may be enforced regardless of the individual’s condition.
+
+
+
+Witnesses may or may not be required to provide proof of their identities. They could be required to provide their addresses and to also type or print their names. Witnesses may be summoned to court to testify regarding the signing of the document by the testator in the case of a contested will.
+
+
+   Legal Challenges to X-Mark Signatures  
+
+In the event of a legal claim against the document, the relationship of each witness to the person signing the document might be called into question. For example, if the only witnesses to an X-mark signature are individuals who stand to benefit from a will being signed, concerns for fraud could be raised.
+
+
+
+The mental capacity of the individual signing an X-mark signature may lead to legal challenges to the validity of the document. If the individual suffers from conditions that may impair their understanding of what they are signing, the document may be deemed unenforceable. This could occur if the individual suffers from dementia or other ailments that constrain their ability to comprehend the legal effects of the document.
+What Is eXtensible Business Reporting Language?  
+
+XBRL or eXtensible Business Reporting Language is a software standard that was developed to improve the way in which financial data is communicated, making it easier to compile and share this data. Notably, eXtensible Business Reporting Language is an implementation of XML (extensible markup language), which is a specification that is used for organizing and defining data online.
+
+
+
+XBRL uses tags to identify each piece of financial data, which then allows it to be used programmatically by an XBRL-compatible program. XBRL allows for easy transmission of data between businesses.
+
+
+
+
+
+Key Takeaways
+
+eXtensible Business Reporting Language (XBRL) is a freely available global framework of accounting standards used for exchanging business information. XBRL is based on XML coding and is a standardized way of transmitting financial records around the world.The most current version of XBRL, v2.1, was published in 2003 and has remained stable. Several optional modules exist as add-ons.
+
+
+   Understanding eXtensible Business Reporting Language  
+
+Imagine that you are looking at a company's financial statements online on the company's website. Traditionally, these statements would simply be in plain text. If you wanted to put these numbers into a spreadsheet file to run analysis on the statements, you would have to either manually type or copy and paste each account and corresponding number into the spreadsheet.
+
+
+
+However, if the data on the site was available in eXtensible Business Reporting Language (XBRL), you could simply convert this data from the website into a spreadsheet program (usually instantaneously) that is XBRL compatible.
+
+
+
+Due to the standardized nature of the identification tags and the language itself, financial data from one country, which has set accounting standards such as U.S. GAAP, can be easily compiled into the accepted accounting standards of another country even if they are drastically different. The reporting of financial data in XBRL is not required by all companies, but because it has become prevalent, it has been suggested that it won't be long before all companies will have to report their financial data in this language. iXBRL, where i stands for inline is an update that allows for XBRL metadata to be embedded in an HTML document.
+
+
+
+XBRL was developed in 1998 with version 1.0 by the American Institute of Certified Public Accountants (AICPA). The latest version of the standards, v2.1 was formalized in the year 2003. While the v2.1 standard has remained stable since then, several XBRL modules have been developed that can be plugged in to achieve new functionality or operability.
+What Is the XCD (Eastern Caribbean Dollar)?  
+
+XCD is the symbol for the Eastern Caribbean dollar, which is the official currency shared by eight Caribbean island countries: Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines.
+
+
+
+The Eastern Caribbean dollar is subdivided into 100 cents and has existed since 1965, when it supplanted the British West Indies dollar. This makes it among the oldest currencies in the region still in use. As of September 2022, 1 XCD is equal to USD $0.37.
+
+
+
+
+
+Key Takeaways
+
+The Eastern Caribbean dollar (XCD) is the official currency of the Organisation of the Eastern Caribbean States (OECS), replacing the British West Indies dollar in 1965.It is used on the island states of Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines.The currency is managed by the Eastern Caribbean Bank and has been pegged to the US Dollar since 1976.
+
+
+   Understanding the XCD (Eastern Caribbean Dollar)  
+
+The Eastern Caribbean dollar serves as the official currency for the Organisation of the Eastern Caribbean States (OECS), an economic and monetary union established in 1981 to harmonize economic and trade policies among the 10 islands located in the Eastern Caribbean. Only eight of the participating countries use the XCD, however. Martinique remains affiliated with France and therefore uses the euro, while the British Virgin Islands use the U.S. dollar.
+
+
+
+At its establishment, the Eastern Caribbean dollar replaced the British West Indies dollar at par. The Eastern Caribbean Currency Authority controlled the issuance of the Eastern Caribbean dollar and pegged its value at 4.8 XCD to 1 GBP.
+
+
+
+In 1976, the currency authority then re-pegged the Eastern Caribbean dollar to the U.S. dollar at a rate of 2.7 XCD to 1 USD. The Eastern Caribbean Bank, established in 1983, subsequently took over the issuance of the currency, leaving the U.S. dollar peg in place.
+
+
+
+The Eastern Caribbean Bank’s mandate covers regulation of liquidity throughout its member states, as well as the promotion of economic and monetary stability through support of economic development and maintenance of a sound financial structure. The bank sees its dollar peg as a primary means to maintain price stability throughout the region and keep inflation in check.
+
+
+   Other Caribbean Currencies  
+
+Despite their small size and relative proximity to one another, many other Caribbean nations use their own currencies. Barbados, which at one time used the Eastern Caribbean dollar, switched to its own dollar in 1973, pegged with the U.S. dollar at a rate of 2 Barbadian dollars (BBD) to 1 USD.
+
+
+
+Elsewhere, the Trinidad and Tobago dollar (TTD), which is approximately the same age as the Eastern Caribbean dollar, began with a U.S. dollar peg and eventually moved to a floating rate in 1993. Likewise, Jamaican dollars (JMD), used on the island of Jamaica and issued by the Bank of Jamaica, float against other currencies. High inflation has led to a de facto phaseout of lower-denomination currencies in the country.
+
+
+
+Despite the proliferation of various currencies throughout the Caribbean region, most tourist destinations accept payment in major global currencies, including the U.S. dollar (USD), British pound sterling (GBP), and the euro (EU).
+What Is XD?  
+
+XD is a symbol used to signify that a security is trading ex-dividend. It is an alphabetic qualifier that acts as shorthand to tell investors key information about a specific security in a stock quote. Sometimes X alone is used to indicate that the stock is trading ex-dividend.
+
+
+
+Qualifiers can vary depending on where the stock is quoted, because the various news and market data services that provide stock quotes may use different qualifiers. These symbol letters may occur as part of a display on a broker's trading platform, on a charting program, or in a timely published report.
+
+
+
+
+
+Key Takeaways
+
+"XD" appears as a footnote, subscript, superscript, or suffix to a ticker symbol to signify the stock is ex-dividend.Stocks trading immediately past the dividend distribution may be lower in price, by the amount of the cash dividend payout.XD is one of many qualifiers or suffixes that can be attached to a ticker symbol to denote some status or event related to a stock.
+
+
+   Understanding XD  
+
+A dividend is a distribution of part of a company's earnings to the company's shareholders. When a stock is trading ex-dividend, the current stockholder has received a recent dividend payment and whoever purchases the stock will not receive the dividend. The stock's price is likely to be lower as a result.
+
+
+
+There are quite a few qualifiers that relate to dividends. For example, -j as a suffix indicates that the stock paid a dividend earlier in the year but currently does not carry a dividend.
+
+
+   Comparing XD With the Record Date  
+
+You'll need to look at two important dates to determine who should get a dividend—the "ex-date" (or XD) and the record date.
+
+
+
+An investor must be on the company's books as a shareholder to receive a dividend. Once the company sets the record date, the ex-dividend date is set. The ex-dividend date for stocks is usually set one business day before the record date. An investor who purchased shares before the ex-dividend date will get the upcoming dividend. If a purchase took place on or after the ex-dividend date, then the seller gets the dividend.
+
+
+
+Companies also use the record date to determine to whom to send financial reports, proxy statements, and other required information.
+
+
+   Special Rules for Determining XD  
+
+If a dividend is 25% or more of the stock's value, then special rules will apply to determine the ex-dividend date. When this happens, the ex-dividend date is deferred until one business day after the dividend is paid.  
+
+
+
+Sometimes a company pays a dividend in the form of stock rather than cash—either as additional shares in the company or in a subsidiary that is being spun off. Setting the ex-date for stock dividends may be different from cash dividends. It will be set the first business day after the stock dividend is paid (and is also after the record date).
+
+
+
+Selling before the ex-dividend date includes an obligation to deliver any shares acquired as a result of the dividend to the buyer of your shares since the seller only receives an I.O.U. from their broker for the additional shares.
+
+
+
+According to the Securities and Exchange Commission (SEC), the day you can sell your shares without being obligated to deliver the additional shares is "not the first business day after the record date, but usually is the first business day after the stock dividend is paid."
+What Is a Xenocurrency?  
+
+The term xenocurrency refers to any currency that is traded in markets outside of its domestic borders. Its name derives from the Greek prefix "xeno," meaning "foreign."
+
+
+
+Today, the use of the term xenocurrency is infrequent as the prefix xeno can have negative connotations in modern English. Xenophobia, for example, means an irrational fear of or hatred toward foreigners. Foreign currency, therefore, has become the preferred term for referring to non-domestic currencies.
+
+
+
+
+
+Key Takeaways
+
+A xenocurrency is a currency deposited or exchanged in a market outside its country of origin.Today, the term “eurocurrency” or “foreign currency” is more frequently used.These types of currency transactions have become increasingly common, driven by the globalization of supply chains and financial markets.
+
+
+   How Xenocurrencies Work  
+
+The term xenocurrency was developed in 1974 by the Austrian-American economist Fritz Machlup, who served as President of the International Economic Association from 1971 to 1974. Machlup used the phrase to refer to deposits and loans denominated in currencies other than that of the bank’s home country.
+
+
+
+Xenocurrency investments can be risky, since they are complicated by many factors, including currency fluctuations and conversion risks. Risks come when deposits are in a rising domestic currency market, where the foreign investment may result in lower returns when converting the funds back into the home currency. However, the opposite is valid for investments in declining domestic currency. Collectively, these risks are known as foreign currency effects.
+
+
+
+Political risks can also be a factor. During a crisis, a country's government might place restrictions on the amount of xenocurrency that travelers may take out of the country. For instance, after the U.S. withdrew from the Iran nuclear deal in May 2018, the Iranian rial plunged to a record low against the U.S. dollar.
+
+
+   Real World Example of a Xenocurrency  
+
+Examples of xenocurrencies include the Indian rupee (INR) traded in the United States or the Japanese yen (JPY) deposited into a European bank. The U.S. Dollar (USD) is likewise often used as xenocurrency in Mexico, especially for large transactions in real estate and other business activities.
+
+
+
+Today, the term xenocurrency is frequently used synonymously with euro currency. Similarly, the phrase xeno-market is often used interchangeably with the term eurocurrency-market. Eurocurrency-market refers to a money market that trades in xenocurrency. Banks, multinational corporations, mutual funds, and hedge funds use the eurocurrency market. These entities use the market because they wish to circumvent regulatory requirements, tax laws and interest rate caps often present in domestic banking, particularly in the United States.
+
+
+
+
+
+Note
+
+Investopedia does not provide tax, investment, or financial services and advice. The information is presented without consideration of the investment investors. Investing involves risk, including the possible loss of principal.
+What Is Xetra?  
+
+The term Xetra refers to an electronic German stock exchange based in Frankfurt. The system is owned and operated by the Deutsche Börse Group. Launched in 1997, the trading platform offers electronic trading in stocks, funds, bonds, warrants, and commodities contracts.
+
+
+
+The majority of trades executed in Germany go through Xetra in addition to about one-third of continental Europe's trading in exchange-traded funds (ETFs). Investors who use Xetra can take advantage of the low costs, high transparency, and quick execution times whenever they make trades.
+
+
+
+
+
+Key Takeaways
+
+Xetra is a trading technology platform operated by the Deutsche Börse Group.Launched in 1997, the platform accounts for more than 90% of all trading in shares at all German exchanges.Xetra was one of the first global electronic trade systems and still lists the DAX.It offers increased flexibility for seeing order depth within the markets, and it offers trading in stocks, funds, bonds, warrants, and commodities contracts.Trading activity takes place between 9 a.m. and 5:30 p.m. local time Monday to Friday, except for major holidays.
+
+
+   Understanding Xetra  
+
+As mentioned above, Xetra is a fully electronic trading platform. Headquartered in Frankfurt, Germany, the exchange is operated by Deutsche Börse Group, which also owns the Frankfurt Stock Exchange (FRA) or Frankfurter Wertpapierbörse. Deutsche Börse Group is a diversified organization with a range of products and services that span the financial industry’s value chain. This includes listing, trading, clearing, and settlement, along with custody services, liquidity management, and more.
+
+
+
+Xetra launched in 1997 and was one of the first global electronic trading systems and has grown to account for the majority of all stock trades on the FRA. In fact, more than 90% of all share trading in Germany takes place through Xetra. This is on top of about 30% of all ETF trading that takes place in continental Europe.
+
+
+
+The Xetra platform offers increased flexibility for seeing order depth within the markets. And because it is a completely electronic platform, it offers investors a trading platform with low costs and high transparency as well as fast turnaround times for their orders. This is especially true for shares that are highly traded, including those that are on the DAX. This index represents 40 of the biggest and most liquid German companies that trade on the FRA.
+
+
+
+Trading on the Xetra electronic platform takes place Monday to Friday between 9 a.m. to 5:30 p.m. local time. There is no trading activity on major holidays. The platform hosts an opening auction daily at 8:50 a.m and a closing auction at 5:30 p.m.
+
+
+
+
+
+149
+
+The number of trading participants on Xetra, about half of which are based in Germany, as of July 2022.
+
+
+   Xetra vs. Other Electronic Trading Systems  
+
+Xetra may be one of the largest electronic trading systems in the world, but it certainly isn't the only one and wasn't the first to offer the ease of automated trading.
+
+
+
+The first automated system for direct trading among U.S. institutions was launched in 1969 and was called Instinet (originally named Institutional Networks). Nasdaq followed with its own automated system in 1971. Trade orders were made on these and other similar systems over the phone.
+
+
+
+The New York Stock Exchange (NYSE) launched its Designated Order Turnaround (DOT) system, which allowed brokers to route orders directly to specialists on the floor. In 1984, SuperDOT emerged, which effectively expanded the number of shares sent to the floor at one time to nearly 100,000. Nasdaq soon offered the Small Order Execution System (SOES) to compete with NYSE.
+
+
+
+Electronic trading is fairly common in today's financial industry. It dominates the public markets over physical trading activity, thanks to the rise of internet technology. In fact, very few exchanges offer trading on a physical trading floor. Instead, the majority of trading takes place globally on electronic platforms like Xetra. But there are risks—notably, greater cybersecurity threats.
+
+
+
+While individuals remain at some level of cyber-attack risk, larger entities such as businesses and government systems are often the main targets of cybersecurity attacks. The U.S. Department of Homeland Security uses high-tech cybersecurity measures to protect sensitive government information from other countries, nation-states, and individual hackers. Any financial system that stores credit card information from its users is at high risk, along with systems like exchanges.
+
+What Is XRT?  
+
+XRT is an extension printed after the ticker symbol for a stock. It indicates that the stock is trading on an ex-rights basis. (XRT is an abbreviation for the word ex-rights.) Ex-rights means that the buyer of the stock does not have the rights to purchase more shares at a lower price anymore because those rights have expired. XRT is printed on the ticker tape—or displayed on the electronic ticker—for clarity and to avoid disputes or confusion about where the rights currently remain. 
+
+
+
+XRT is also the ticker symbol for the SPDR S&P Retail exchange-traded fund (ETF). This is an index fund that tracks a broad-based, equal-weighted index of U.S. retail industry stocks. 
+
+
+
+
+
+Key Takeaways
+
+XRT is an extension printed after the ticker symbol for a stock that indicates that the stock is trading on an ex-rights basis.Ex-rights means that the buyer of the stock does not have the rights to purchase more shares at a lower price anymore because those rights have expired.XRT is printed on the ticker tape—or displayed on the electronic ticker—for clarity and to avoid disputes or confusion about where the rights currently remain. 
+
+
+   Understanding XRT  
+
+XRT is a symbol added as an extension to the ticker symbol for a stock that is trading ex-rights. On the ticker, the extension is added after a dot and after the ticker symbol. For example, a trade of stock Apex Borax Company with the ticker symbol ABC that is ex-rights would display as "ABC.XRT" on the ticker.
+
+
+
+Rights are a type of financial instrument that give the purchaser of a stock the right to purchase more shares at a lower price than the trading price for the first month or two after the initial purchase. It is said that rights are "attached" to a stock, although in some cases these rights are detachable. After that specified initial time period in which the rights are attached, those rights expire; at this time, the stock is said to be traded "ex-rights." When a stock hits the rights expiration period and goes ex-rights, it usually trades for lower than it has been for a brief period of time, because the beneficial rights are no longer attached to it.
+
+
+   The Function of Rights  
+
+The function of attaching rights to a stock through a rights offering is to facilitate buyers maintaining their position in the stock if the stock issues more shares not long after the buyer purchases. It functions similarly to the way a price guarantee does for the purchase of a retail product, in which the purchaser does not need to worry that the price of a product will skyrocket because the price is guaranteed for a certain period of time.
+
+
+
+This is the reason the price of the stock goes down when the rights expire because there is no longer a guarantee that the purchaser can maintain an ownership percentage at the same price. This makes the stock less valuable to the purchaser.
+
+
+
+Investopedia does not provide tax, investment, or financial services and advice. The information is presented without consideration of the investment investors. Investing involves risk, including the possible loss of principal.
